@@ -1,0 +1,9 @@
+*.iml
+.idea
+target
+
+*.pyc
+venv
+
+flink-training-exercises
+nycTaxiRides.gz
